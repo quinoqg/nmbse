@@ -1,0 +1,31 @@
+baseURL = "https://github.com/quinoqg/nmbse.github.io"
+languageCode = "en-gb"
+title = "Natural Materials and Biomimetics for Sustainable Engineering"
+
+[params]
+  description = "Workshop bringing together European researchers on natural fibre composites, bio-derived materials, and biomimetic strategies"
+  date = "17 June 2026"
+  location = "Imperial College London"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Speakers"
+    url = "/speakers/"
+    weight = 2
+  [[menu.main]]
+    name = "Registration"
+    url = "/registration/"
+    weight = 3
+  [[menu.main]]
+    name = "Organisers"
+    url = "/organisers/"
+    weight = 4

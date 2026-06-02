@@ -1,0 +1,22 @@
+{{ define "main" }}
+<section class="hero">
+  <img src="{{ "images/banner.png" | relURL }}" alt="Natural Materials and Biomimetics for Sustainable Engineering – 17 June 2026" class="hero-image">
+</section>
+
+<section class="container content">
+  <div class="intro">
+    <h1>Natural Materials and Biomimetics for Sustainable Engineering</h1>
+    <p class="event-meta">
+      <span class="meta-item">📅 Wednesday, 17 June 2026</span>
+      <span class="meta-item">📍 Imperial College London, South Kensington Campus</span>
+    </p>
+  </div>
+
+  {{ .Content }}
+
+  <div class="cta-row">
+    <a href="{{ "registration/" | relURL }}" class="btn">Register Now — Free</a>
+    <a href="{{ "speakers/" | relURL }}" class="btn btn-outline">View Speakers</a>
+  </div>
+</section>
+{{ end }}

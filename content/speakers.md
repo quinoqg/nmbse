@@ -2,11 +2,7 @@
 title: "Speakers"
 ---
 
-## Invited Speakers
-
-We are delighted to welcome a distinguished group of researchers and practitioners from across Europe whose work spans natural materials, biomimetics, and sustainable engineering.
-
-### Confirmed Speakers
+## Confirmed Speakers
 
 - **Aart Willem van Vuure** — KU Leuven  
 - **Alain Bermaud** — Université de Bretagne Sud  

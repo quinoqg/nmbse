@@ -28,11 +28,6 @@ He later pursued doctoral studies at KU Leuven, supported by both the prestigiou
 
 Since joining LIST in 2021, Dr Fuentes Rojas has led major efforts in bio-inspired material development and has secured more than €9 million in funding as Principal Investigator for major European projects including **BioCel3D**, **BioInter**, and **BafCom**, as well as projects focused on sustainable composite materials for the automotive sector. He has published 37 peer-reviewed articles, presented at over 60 international conferences, supervises a multidisciplinary research team, and holds five patents related to sustainable material innovation.
 
-<div class="info-card">
-<h3>🏛️ Host Institution</h3>
-<p><strong>Imperial College London</strong> is a world-leading university in science, engineering, medicine, and business. Located in the heart of South Kensington, Imperial is internationally recognised for its research excellence, innovation, and real-world impact.</p>
-</div>
-
 ## Contact
 
 For enquiries about the workshop, please contact Dr Quino.

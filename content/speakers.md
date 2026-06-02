@@ -5,7 +5,7 @@ title: "Speakers"
 ## Confirmed Speakers
 
 - **Aart Willem van Vuure** — KU Leuven  
-- **Alain Bermaud** — Université de Bretagne Sud  
+- **Alain Bormaud** — Université de Bretagne Sud  
 - **Clare Garing** — KU Leuven  
 - **Lina Osorio** — Universidad Autonoma de Manizales  
 - **Carlos Cardona** — LIST  

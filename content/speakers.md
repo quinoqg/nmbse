@@ -8,12 +8,11 @@ title: "Speakers"
 - **Alain Bormaud** — Université de Bretagne Sud  
 - **Clare Garing** — KU Leuven  
 - **Lina Osorio** — Universidad Autonoma de Manizales  
-- **Carlos Cardona** — LIST  
+- **Clément Mugemana** — LIST  
 - **Karthik Ram Ramakrishnan** — University of Bristol  
 - **Koon-Yang Lee** — Imperial College London  
 - **Sander Van de Vel** — KU Leuven  
 - **Alexandros Prapavesis** — KU Leuven  
-- **Jaime Buitrago** — LIST  
 - **Emiliano Bilotti** — Imperial College London  
 - **Ivo Liepa** — Delft University of Technology  
 

@@ -4,7 +4,7 @@ title: "Organisers"
 
 ## Organising Committee
 
-This workshop is organised Dr Gustavo Quino from **Imperial College London** and Dr Carlos Fuentes from **Luxembrourg Institute of Science and Technology**.
+This workshop is organised Dr Gustavo Quino from **Imperial College London** and Dr Carlos Fuentes from **Luxembourg Institute of Science and Technology**.
 
 ## Organisers
 

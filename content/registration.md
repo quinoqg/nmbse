@@ -10,7 +10,7 @@ The workshop is open to researchers, academics, industry professionals, and stud
 <h3>📋 Registration Details</h3>
 <p><strong>Date:</strong> Wednesday, 17 June 2026</p>
 <p><strong>Location:</strong> Imperial College London, South Kensington Campus, Exhibition Road, London SW7 2AZ</p>
-<p><a href="https://cassyni.com/s/nmbse-workshop">Register via Cassyni</a></p>
+<p><a href="https://cassyni.com/s/nmbse-workshop">Register on Cassyni.</a></p>
 </div>
 
 ## Attendance Options
@@ -21,7 +21,7 @@ Join us on campus at Imperial College London for the full workshop experience, i
 
 ### Online
 
-Can't make it to London? The workshop will be **livestreamed via Cassyni** through the Imperial College Cassyni page. Online attendees will be able to watch all talks in real time.
+Can't make it to London? The workshop will be **livestreamed via Cassyni** through the [workshop's Cassyni page](https://cassyni.com/s/nmbse-workshop). Online attendees will be able to watch all talks in real time.
 
 <!-- ## How to Register
 
